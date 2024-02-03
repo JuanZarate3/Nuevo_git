@@ -4,3 +4,5 @@ Juan tiene 39 años y nació en Bogotá, Colombia.
 Es físico puro.
 
 Hoy hablaremos de su historia.
+
+Además, le gusta jugat fúbtol. Es arquero.
